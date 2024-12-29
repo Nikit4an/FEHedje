@@ -1,0 +1,2 @@
+# FEHedje
+Memecoin
